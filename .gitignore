@@ -1,0 +1,13 @@
+# Build outputs and local IDE files
+build/
+.pio/
+.vscode/
+*.elf
+*.map
+*.o
+*.a
+
+# Secrets / local configuration
+secrets.h
+credentials.h
+.env

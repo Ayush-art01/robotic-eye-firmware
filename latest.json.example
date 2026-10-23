@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "firmware_url": "https://github.com/Ayush-art01/robotic-eye-firmware/releases/download/v0.1.0/robotic-eye-esp32.bin",
+  "sha256": "REPLACE_WITH_REAL_SHA256_AFTER_BUILD",
+  "notes": "Example only; do not use for a real OTA update."
+}
